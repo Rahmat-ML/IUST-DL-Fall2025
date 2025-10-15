@@ -67,16 +67,8 @@ It covers both theoretical foundations and hands-on exercises involving real-wor
   ```bash
   Deep-Learning-Course-Exercises/
   │
-  ├── Week1_NeuralNetworks/
-  ├── Week2_Optimization/
-  ├── Week3_Regularization/
-  ├── Week4_CNNs/
-  ├── Week5_RNNs/
-  ├── Week6_Autoencoders/
-  ├── Week7_GenerativeModels/
-  ├── Week8_AdvancedTopics/
-  ├── FinalProject/
-  ├── requirements.txt
+  ├── HW1
+  ├── LICENCE
   └── README.md
   ```
 
